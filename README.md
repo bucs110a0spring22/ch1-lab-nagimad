@@ -8,18 +8,17 @@
 _Replace anything surrounded by the `< >` symbols (including the < >)._
 
 ## SUMMARY OF LATE POLICY FOR THE COURSE:
- < Provide a  description of the courses late policy >
+ There are 5 Grace days given for the semester for late submissions. Late assignments submitted without use of teh grace days get deducted 10% for every day it is late.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
-
+The course syllybus and Description for this lab
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Have a great day!!! :))
